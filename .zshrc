@@ -56,7 +56,7 @@ plugins=(git)
 
 # User configuration
 
-export PATH="/usr/local/arm_linux_4.2/bin":$PATH
+#export PATH="/usr/local/arm_linux_4.2/bin":$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
