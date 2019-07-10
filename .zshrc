@@ -85,7 +85,9 @@ export LANG=en_US.UTF-8
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
+alias make=colormake
 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib/
 #color{{{
 autoload colors
 colors
